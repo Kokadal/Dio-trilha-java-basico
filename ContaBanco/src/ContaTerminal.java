@@ -24,14 +24,14 @@ public class ContaTerminal {
 
             double limiteSaque = 50.00;
 
-        // Verificando a opção escolhida pelo usuário
+        
         if (acesso.equalsIgnoreCase("SALDO")) {
             System.out.println("Seu saldo disponível é de R$ " + limiteSaque);
         } else {
             System.out.println("Opção inválida!");
         }
 
-        // Se o usuário escolher sacar, continua com a lógica do saque
+        
         if (acesso.equalsIgnoreCase("SALDO")) {
             System.out.println("Por favor, informe o valor que deseja sacar");
             double valorSolicitado = scanner.nextDouble();
