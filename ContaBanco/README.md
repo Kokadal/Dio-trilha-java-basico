@@ -1,18 +1,21 @@
-## Getting Started
+# DIO - Trilha Java Básico
+www.dio.me
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+#### Autores
+- [Gleyson Sampaio](https://github.com/glysns)
 
-## Folder Structure
+## Exercício operadores
+Crie o programa chamado `BancoTerminal.java` para implementar o algorítmo conforme abaixo:
 
-The workspace contains two folders by default, where:
+O programa deverá simular uma operação de saque onde:
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+1. Terá uma variável denominada `saldo` do tipo double contendo o valor inicial igual a 25;
+1. Terá uma variável denominada de `valor solicitado` do tipo double contendo o valor inicial igual a 18;
+1. Criar uma expressão relacional para que caso o saldo seja `maior` que o valor solicitado, o saldo recebe o novo valor como saldo é igual saldo menos o valor solicitado. Caso o saldo seja menor que o valor solicitado, devemos exibir a mensagem "Saldo insuficiente";
+1. Imprima o valor do saldo;
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+1. Em seguida, realize a mesma execução do programana agora com os valores saldo igual a 15 e valor solicitado igual a 22 e exiba o resultado;
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+#### Aluno
+- [Douglas Roberto](https://github.com/Kokadal)
+![Logo](https://gartic.com.br/imgs/mural/ib/iblurrycake/doug-funny.png);
