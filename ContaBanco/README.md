@@ -17,6 +17,7 @@ O programa deverá simular uma operação de saque onde:
 1. Em seguida, realize a mesma execução do programana agora com os valores saldo igual a 15 e valor solicitado igual a 22 e exiba o resultado;
 
 #### Aluno
-- [Douglas Roberto](https://github.com/Kokadal)
+- [Douglas Roberto](https://github.com/Kokadal);
+- Olá, neste sistema, você terá uma experiencia bem breve para acessar sua conta. Espero que ajude ou agrade 😉;
 
 ![Logo](https://gartic.com.br/imgs/mural/ib/iblurrycake/doug-funny.png);
