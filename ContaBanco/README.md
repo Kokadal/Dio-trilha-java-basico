@@ -18,4 +18,5 @@ O programa deverá simular uma operação de saque onde:
 
 #### Aluno
 - [Douglas Roberto](https://github.com/Kokadal)
+
 ![Logo](https://gartic.com.br/imgs/mural/ib/iblurrycake/doug-funny.png);
