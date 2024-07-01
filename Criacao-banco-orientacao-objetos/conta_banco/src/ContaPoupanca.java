@@ -1,5 +1,9 @@
 public class ContaPoupanca extends Conta {
     
+    public ContaCorrente(Cliente cliente){
+        super(cliente);
+    }
+
     @Override
     public void imprirExtrato(){
         System.out.println("=== Extrato conta Corrente ===");
